@@ -1,0 +1,56 @@
+body {
+    background: #f5f5f5;
+}
+header {
+    background: white;
+    height: 300px;
+    
+    padding: 10px;
+    border-top: 5px solid #0974b3 ;
+    
+}
+header img {
+object-fit: cover;
+height: 200px;
+width: 150px;
+margin-right: 20px;
+    
+}
+.float-left {
+    float:left;
+    margin-left: 10px;
+}
+ h1 {
+    color: #0974b3;
+    margin: auto;
+}
+ h2 {
+    color:#c8c8c8 ;
+    font-size: 14px;
+    margin-top: 0px;
+    
+}
+header p {
+    text-align: justify;
+    
+}
+
+    section {
+    background: white;
+    height: 300px;
+    padding: 10px;
+    border-top: 5px solid #0974b3 ;
+    }
+    
+    section img {
+object-fit: cover;
+height: 200px;
+width: 150px;
+margin-right: 20px;
+    
+    }
+    .section-left {
+        float:left;
+    }
+    .section-right 
+    
